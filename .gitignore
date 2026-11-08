@@ -9,3 +9,4 @@
 *.dpapi
 *.idsig
 .env*
+!/apk/v0.1.7/Marginling.apk
