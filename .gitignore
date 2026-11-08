@@ -1,4 +1,5 @@
 *.apk
+!/apk/v0.1.3/Marginling.apk
 *.aab
 *.jks
 *.keystore
