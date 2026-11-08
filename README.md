@@ -2,9 +2,9 @@
 
 A Marginling egy EPUB-olvasó, ahol minden könyvhöz saját laplakó tartozik.
 
-[**Marginling v0.1.3 letöltése**](https://raw.githubusercontent.com/Ghost990/Marginling-Downloads/main/apk/v0.1.3/Marginling.apk) · [Kiadások](https://github.com/Ghost990/Marginling-Downloads/releases)
+[**Marginling v0.1.6 letöltése**](https://raw.githubusercontent.com/Ghost990/Marginling-Downloads/main/apk/v0.1.6/Marginling.apk) · [Kiadások](https://github.com/Ghost990/Marginling-Downloads/releases)
 
-A v0.1.3 letöltési tartaléka ugyanazt az aláírt APK-t adja, mint a kiadás. Az Android 16-os tesztemulátoron a Play Protect blokkolta a telepítést. [A v0.1.3 kiadási megjegyzései](https://github.com/Ghost990/Marginling-Downloads/releases/tag/v0.1.3)
+A v0.1.6 letöltési tartaléka ugyanazt az aláírt APK-t adja, mint a kiadás. Ebben a verzióban az olvasott lapok betűmorzsát adnak, amivel a Fészekben megetetheted a laplakót. Telepítéskor a Play Protect figyelmeztetést adhat. [A v0.1.6 kiadás](https://github.com/Ghost990/Marginling-Downloads/releases/tag/v0.1.6)
 
 Android 8 vagy újabb szükséges. A telefonon nyisd meg a letöltött APK-t. Ha az Android engedélyt kér, engedélyezd a telepítést annak az alkalmazásnak, amelyből megnyitottad a fájlt.
 
